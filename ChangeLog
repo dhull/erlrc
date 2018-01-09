@@ -1,3 +1,6 @@
+=Version 1.0.6=
+  * Use os:timestamp/0 for Erlang 19.
+
 =Version 1.0.5=
   * release for Centos7
 
@@ -124,3 +127,8 @@
 
 =Version 0.0.0=
   * Initial version.
+
+# Local Variables:
+# mode: text
+# fill-column: 78
+# End:
